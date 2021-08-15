@@ -1,0 +1,11 @@
+body{
+    background: rgb(82, 82, 246);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div-review{
+    font-size: 26px;
+}
+.div-img{
+    width: 400px;
+    height: 150px;
+}
